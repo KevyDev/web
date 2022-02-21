@@ -1,0 +1,28 @@
+{
+    "examples": [
+        {
+            "img": "kevydev.png",
+            "name": "KevyDev Web",
+            "info": "Yo mismo diseñé mi web desde cero. Solamente hice uso de React y sus derivados.",
+            "link": "https://github.com/"
+        }
+    ],
+    "skills": [
+        [
+            "html",
+            "css",
+            "javascript",
+            "react",
+            "node",
+            "php",
+            "mysql"
+        ],
+        [
+            "python"
+        ],
+        [
+            "java",
+            "mongodb"
+        ]
+    ]
+}

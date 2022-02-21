@@ -1,0 +1,15 @@
+{
+  "short_name": "KevyDev",
+  "name": "KevyDev Web",
+  "icons": [
+    {
+      "src": "kevydev-icon.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
