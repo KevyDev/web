@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @KevyDev
-- 👀 I’m interested in web, mobile and desktop development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on multiple projects
-- 📫 You can contact me on kevydev@outlook.com
